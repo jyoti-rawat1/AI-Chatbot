@@ -1,0 +1,231 @@
+{
+  "intents": [
+
+    {
+      "tag": "software_developer",
+      "patterns": [
+        "I want to become a software engineer",
+        "How to become a software developer?",
+        "I like coding",
+        "Best career in programming",
+        "How to start coding career?",
+        "What skills needed for software job?",
+        "I love building apps",
+        "Career in programming after 12th",
+        "Roadmap for software engineer",
+        "Salary of software developer"
+      ],
+      "responses": [
+        "Software Development is one of the most in-demand careers. Start by learning programming languages like Python, Java, or C++. Then understand Data Structures and Algorithms. Build projects, practice on LeetCode, and apply for internships. Average salary ranges from 4-15 LPA in India depending on skills.",
+        "To become a Software Developer, focus on coding fundamentals, problem-solving skills, and real-world projects. Choose a specialization like Web, App, or Backend Development."
+      ]
+    },
+
+    {
+      "tag": "web_developer",
+      "patterns": [
+        "How to become web developer?",
+        "I want to create websites",
+        "Frontend or backend career",
+        "HTML CSS career scope",
+        "Web development roadmap",
+        "Full stack developer kaise bane",
+        "Is web development good career?",
+        "What is frontend developer?",
+        "Backend career option",
+        "MERN stack career"
+      ],
+      "responses": [
+        "Web Development is a great career option. Start with HTML, CSS, and JavaScript. Then learn React for frontend and Node.js for backend. You can become a Full Stack Developer by mastering both. Salary ranges from 3-12 LPA for beginners.",
+        "Frontend developers design user interfaces, while Backend developers handle server logic and databases. MERN stack (MongoDB, Express, React, Node) is highly in demand."
+      ]
+    },
+
+    {
+      "tag": "data_scientist",
+      "patterns": [
+        "I love maths and statistics",
+        "Career in data science",
+        "Data scientist kaise bane",
+        "AI and ML career",
+        "Machine learning engineer roadmap",
+        "What is data analyst?",
+        "Python career options",
+        "Big data field",
+        "High salary tech career",
+        "Future career in AI"
+      ],
+      "responses": [
+        "Data Science is ideal if you enjoy Maths and Statistics. Learn Python, Pandas, NumPy, and Machine Learning. Then move to Deep Learning and AI. Salary can range from 6-20 LPA.",
+        "Start with Statistics and Python. Build ML projects like prediction models and dashboards. AI and ML have strong future demand globally."
+      ]
+    },
+
+    {
+      "tag": "mbbs",
+      "patterns": [
+        "I want to become doctor",
+        "MBBS admission process",
+        "NEET preparation",
+        "How to crack NEET",
+        "Doctor salary in India",
+        "Medical field after 12th",
+        "Best medical career",
+        "Government medical college",
+        "How many years MBBS",
+        "Surgeon kaise bane"
+      ],
+      "responses": [
+        "To become a doctor, you must clear NEET exam after 12th with PCB. MBBS duration is 5.5 years including internship. Doctors earn between 6-25 LPA depending on specialization.",
+        "After MBBS, you can specialize in Surgery, Cardiology, or Neurology. Consistent preparation and strong Biology knowledge are essential."
+      ]
+    },
+
+    {
+      "tag": "nursing",
+      "patterns": [
+        "Career in nursing",
+        "How to become nurse",
+        "Nursing course duration",
+        "Salary of nurse",
+        "Government nursing job"
+      ],
+      "responses": [
+        "Nursing is a respected healthcare career. You can pursue BSc Nursing (4 years). Nurses earn around 2-8 LPA and government jobs offer stability and benefits."
+      ]
+    },
+
+    {
+      "tag": "pharmacy",
+      "patterns": [
+        "B pharma scope",
+        "Pharmacist kaise bane",
+        "Pharmacy career options",
+        "Drug inspector job",
+        "Pharmaceutical industry"
+      ],
+      "responses": [
+        "After B.Pharm (4 years), you can work in hospitals, pharmaceutical companies, or government drug departments. Salary ranges 3-10 LPA."
+      ]
+    },
+
+    {
+      "tag": "ca",
+      "patterns": [
+        "CA kaise bane",
+        "Chartered accountant salary",
+        "CA course details",
+        "Best commerce career",
+        "Accounts field career",
+        "Audit job",
+        "CA vs MBA",
+        "Commerce after 12th",
+        "CPT exam",
+        "Financial career"
+      ],
+      "responses": [
+        "To become a CA, register with ICAI after 12th. Clear Foundation, Intermediate, and Final exams. It takes 4-5 years. CA salary ranges from 7-25 LPA.",
+        "CA is ideal for students interested in accounting, auditing, taxation, and finance."
+      ]
+    },
+
+    {
+      "tag": "mba",
+      "patterns": [
+        "MBA after graduation",
+        "MBA specializations",
+        "Marketing career",
+        "HR career",
+        "Business management field",
+        "Is MBA good career?",
+        "MBA salary",
+        "Top MBA colleges",
+        "CAT preparation",
+        "Entrepreneurship career"
+      ],
+      "responses": [
+        "MBA is a great option after graduation. Popular specializations include Marketing, Finance, HR, and Operations. MBA graduates earn 5-20 LPA depending on college.",
+        "Prepare for CAT exam to enter top B-schools like IIMs."
+      ]
+    },
+
+    {
+      "tag": "banking",
+      "patterns": [
+        "Bank job preparation",
+        "IBPS exam",
+        "SBI PO",
+        "Government banking career",
+        "Clerk job"
+      ],
+      "responses": [
+        "For banking jobs, prepare for IBPS or SBI exams. Focus on Quantitative Aptitude, Reasoning, and English. Government banking jobs provide stability and good salary packages."
+      ]
+    },
+
+    {
+      "tag": "graphic_designer",
+      "patterns": [
+        "Graphic designer kaise bane",
+        "Creative career options",
+        "Photoshop career",
+        "Logo design career",
+        "Designing field scope",
+        "Freelancing design",
+        "Canva career",
+        "Visual design job"
+      ],
+      "responses": [
+        "Graphic Designing is perfect for creative minds. Learn Photoshop, Illustrator, and Canva. Build a strong portfolio. Freelancing opportunities are also high. Salary ranges from 3-10 LPA."
+      ]
+    },
+
+    {
+      "tag": "ui_ux",
+      "patterns": [
+        "UI UX designer roadmap",
+        "What is UX design",
+        "Product design career",
+        "App designing career",
+        "Figma career",
+        "UX salary"
+      ],
+      "responses": [
+        "UI/UX Design focuses on user experience and interface design. Learn Figma, Adobe XD, and design principles. Salary ranges from 5-18 LPA."
+      ]
+    },
+
+    {
+      "tag": "content_creator",
+      "patterns": [
+        "YouTube career",
+        "Influencer kaise bane",
+        "Blogging career",
+        "Content writing job",
+        "Social media career",
+        "Instagram influencer"
+      ],
+      "responses": [
+        "Content creation is growing rapidly. You can earn through YouTube ads, sponsorships, blogging, and freelancing. Consistency and creativity are key."
+      ]
+    },
+
+    {
+      "tag": "digital_marketing",
+      "patterns": [
+        "Digital marketing career",
+        "SEO job",
+        "Google ads career",
+        "Social media marketing",
+        "Online marketing field",
+        "Performance marketing",
+        "PPC job",
+        "Affiliate marketing"
+      ],
+      "responses": [
+        "Digital Marketing includes SEO, Social Media, PPC, and Content Marketing. Learn Google Ads and Analytics. Salary ranges from 3-12 LPA."
+      ]
+    }
+
+  ]
+}
